@@ -21,14 +21,6 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*8)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2018/02/enjoy-traveling-with-travel-guard.html"}
-if(x=="2"){xxx="/2018/02/automotive-and-transportation-email.html"}
-if(x=="3"){xxx="/2018/02/info-to-buy-auto-car-insurance.html"}
-if(x=="4"){xxx="/2018/02/get-best-digital-marketing-solutions.html"}
-if(x=="5"){xxx="/2018/02/how-you-can-shop-auto-insurance-and.html"}
-if(x=="6"){xxx="/2018/02/why-there-is-need-for-travel-insurance.html"}
-if(x=="7"){xxx="/2018/02/travellers-health-insurance-boon-in.html"}
-if(x=="8"){xxx="/2018/02/email-marketing-tips-everyone-should.html"}
 if(x=="8"){xxx="/p/go-link.html"}a_to_ve[i].href="https://www.saveinsurance.us"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
